@@ -60,11 +60,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\falev\\OneDrive\\Рабочий стол\\WheatherForecastConsole\\WheatherForecastConsole.csproj",
+      "projectUniqueName": "C:\\Users\\falev\\OneDrive\\Рабочий стол\\he\\weather\\WheatherForecastConsole.csproj",
       "projectName": "WheatherForecastConsole",
-      "projectPath": "C:\\Users\\falev\\OneDrive\\Рабочий стол\\WheatherForecastConsole\\WheatherForecastConsole.csproj",
+      "projectPath": "C:\\Users\\falev\\OneDrive\\Рабочий стол\\he\\weather\\WheatherForecastConsole.csproj",
       "packagesPath": "C:\\Users\\falev\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\falev\\OneDrive\\Рабочий стол\\WheatherForecastConsole\\obj\\",
+      "outputPath": "C:\\Users\\falev\\OneDrive\\Рабочий стол\\he\\weather\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\falev\\AppData\\Roaming\\NuGet\\NuGet.Config",

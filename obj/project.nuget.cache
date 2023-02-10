@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "33+c+ZiKNzI/j9mDurkct5KghAvKIirYjE12LkerHmxqnfT7UkNqvAU6juQJCANLhPHm/GxbE7clnAlet/jHJw==",
+  "dgSpecHash": "ekLO+Q9ESZVyU10Wbeg5M7lzJjOvniq954SOtFF44PSGfVxEp0xLCallPX3N9xkHkD1I3rCXlcVa2kIoKblOaw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\falev\\OneDrive\\Рабочий стол\\WheatherForecastConsole\\WheatherForecastConsole.csproj",
+  "projectFilePath": "C:\\Users\\falev\\OneDrive\\Рабочий стол\\he\\weather\\WheatherForecastConsole.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\falev\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
   ],
