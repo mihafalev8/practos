@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "33+c+ZiKNzI/j9mDurkct5KghAvKIirYjE12LkerHmxqnfT7UkNqvAU6juQJCANLhPHm/GxbE7clnAlet/jHJw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\falev\\OneDrive\\Рабочий стол\\WheatherForecastConsole\\WheatherForecastConsole.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\falev\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

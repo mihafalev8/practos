@@ -1,0 +1,51 @@
+C:\Users\admin\Desktop\WheatherForecastConsole\bin\Debug\net6.0\WheatherForecastConsole.exe
+C:\Users\admin\Desktop\WheatherForecastConsole\bin\Debug\net6.0\WheatherForecastConsole.deps.json
+C:\Users\admin\Desktop\WheatherForecastConsole\bin\Debug\net6.0\WheatherForecastConsole.runtimeconfig.json
+C:\Users\admin\Desktop\WheatherForecastConsole\bin\Debug\net6.0\WheatherForecastConsole.dll
+C:\Users\admin\Desktop\WheatherForecastConsole\bin\Debug\net6.0\WheatherForecastConsole.pdb
+C:\Users\admin\Desktop\WheatherForecastConsole\obj\Debug\net6.0\WheatherForecastConsole.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\WheatherForecastConsole\obj\Debug\net6.0\WheatherForecastConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\WheatherForecastConsole\obj\Debug\net6.0\WheatherForecastConsole.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\WheatherForecastConsole\obj\Debug\net6.0\WheatherForecastConsole.AssemblyInfo.cs
+C:\Users\admin\Desktop\WheatherForecastConsole\obj\Debug\net6.0\WheatherForecastConsole.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\WheatherForecastConsole\obj\Debug\net6.0\WheatherForecastConsole.dll
+C:\Users\admin\Desktop\WheatherForecastConsole\obj\Debug\net6.0\refint\WheatherForecastConsole.dll
+C:\Users\admin\Desktop\WheatherForecastConsole\obj\Debug\net6.0\WheatherForecastConsole.pdb
+C:\Users\admin\Desktop\WheatherForecastConsole\obj\Debug\net6.0\WheatherForecastConsole.genruntimeconfig.cache
+C:\Users\admin\Desktop\WheatherForecastConsole\obj\Debug\net6.0\ref\WheatherForecastConsole.dll
+C:\Users\admin\Desktop\WheatherForecastConsole\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\admin\Desktop\WheatherForecastConsole\obj\Debug\net6.0\WheatherForecastConsole.csproj.CopyComplete
+C:\Users\admin\Desktop\Коноплёв\WheatherForecastConsole\bin\Debug\net6.0\WheatherForecastConsole.exe
+C:\Users\admin\Desktop\Коноплёв\WheatherForecastConsole\bin\Debug\net6.0\WheatherForecastConsole.deps.json
+C:\Users\admin\Desktop\Коноплёв\WheatherForecastConsole\bin\Debug\net6.0\WheatherForecastConsole.runtimeconfig.json
+C:\Users\admin\Desktop\Коноплёв\WheatherForecastConsole\bin\Debug\net6.0\WheatherForecastConsole.dll
+C:\Users\admin\Desktop\Коноплёв\WheatherForecastConsole\bin\Debug\net6.0\WheatherForecastConsole.pdb
+C:\Users\admin\Desktop\Коноплёв\WheatherForecastConsole\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\admin\Desktop\Коноплёв\WheatherForecastConsole\obj\Debug\net6.0\WheatherForecastConsole.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Коноплёв\WheatherForecastConsole\obj\Debug\net6.0\WheatherForecastConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\Коноплёв\WheatherForecastConsole\obj\Debug\net6.0\WheatherForecastConsole.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\Коноплёв\WheatherForecastConsole\obj\Debug\net6.0\WheatherForecastConsole.AssemblyInfo.cs
+C:\Users\admin\Desktop\Коноплёв\WheatherForecastConsole\obj\Debug\net6.0\WheatherForecastConsole.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Коноплёв\WheatherForecastConsole\obj\Debug\net6.0\WheatherForecastConsole.csproj.CopyComplete
+C:\Users\admin\Desktop\Коноплёв\WheatherForecastConsole\obj\Debug\net6.0\WheatherForecastConsole.dll
+C:\Users\admin\Desktop\Коноплёв\WheatherForecastConsole\obj\Debug\net6.0\refint\WheatherForecastConsole.dll
+C:\Users\admin\Desktop\Коноплёв\WheatherForecastConsole\obj\Debug\net6.0\WheatherForecastConsole.pdb
+C:\Users\admin\Desktop\Коноплёв\WheatherForecastConsole\obj\Debug\net6.0\WheatherForecastConsole.genruntimeconfig.cache
+C:\Users\admin\Desktop\Коноплёв\WheatherForecastConsole\obj\Debug\net6.0\ref\WheatherForecastConsole.dll
+C:\Users\falev\OneDrive\Рабочий стол\WheatherForecastConsole\bin\Debug\net6.0\WheatherForecastConsole.exe
+C:\Users\falev\OneDrive\Рабочий стол\WheatherForecastConsole\bin\Debug\net6.0\WheatherForecastConsole.deps.json
+C:\Users\falev\OneDrive\Рабочий стол\WheatherForecastConsole\bin\Debug\net6.0\WheatherForecastConsole.runtimeconfig.json
+C:\Users\falev\OneDrive\Рабочий стол\WheatherForecastConsole\bin\Debug\net6.0\WheatherForecastConsole.dll
+C:\Users\falev\OneDrive\Рабочий стол\WheatherForecastConsole\bin\Debug\net6.0\WheatherForecastConsole.pdb
+C:\Users\falev\OneDrive\Рабочий стол\WheatherForecastConsole\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\falev\OneDrive\Рабочий стол\WheatherForecastConsole\obj\Debug\net6.0\WheatherForecastConsole.csproj.AssemblyReference.cache
+C:\Users\falev\OneDrive\Рабочий стол\WheatherForecastConsole\obj\Debug\net6.0\WheatherForecastConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\falev\OneDrive\Рабочий стол\WheatherForecastConsole\obj\Debug\net6.0\WheatherForecastConsole.AssemblyInfoInputs.cache
+C:\Users\falev\OneDrive\Рабочий стол\WheatherForecastConsole\obj\Debug\net6.0\WheatherForecastConsole.AssemblyInfo.cs
+C:\Users\falev\OneDrive\Рабочий стол\WheatherForecastConsole\obj\Debug\net6.0\WheatherForecastConsole.csproj.CoreCompileInputs.cache
+C:\Users\falev\OneDrive\Рабочий стол\WheatherForecastConsole\obj\Debug\net6.0\WheatherForecastConsole.csproj.CopyComplete
+C:\Users\falev\OneDrive\Рабочий стол\WheatherForecastConsole\obj\Debug\net6.0\WheatherForecastConsole.dll
+C:\Users\falev\OneDrive\Рабочий стол\WheatherForecastConsole\obj\Debug\net6.0\refint\WheatherForecastConsole.dll
+C:\Users\falev\OneDrive\Рабочий стол\WheatherForecastConsole\obj\Debug\net6.0\WheatherForecastConsole.pdb
+C:\Users\falev\OneDrive\Рабочий стол\WheatherForecastConsole\obj\Debug\net6.0\WheatherForecastConsole.genruntimeconfig.cache
+C:\Users\falev\OneDrive\Рабочий стол\WheatherForecastConsole\obj\Debug\net6.0\ref\WheatherForecastConsole.dll
